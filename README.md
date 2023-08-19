@@ -2,6 +2,8 @@
 
 Determine optimal locations using simulated annealing! Geometric Median Location Optimizer is a Python-based optimization tool designed to compute the geometric median of geospatial data.
 
+Finding the geometric median holds a fascinating challenge: minimizing travel distances. Through this passion project, I delved into pinpointing the most central location (Geometric Median) relative to all other points, a problem with no existing arithmetic solutions.
+
 ## 🚀 Features
 - **Simulated Annealing**: Compute the most central location using simulated annealing.
 - **Geometric Median**: Understand and analyze the most central point regarding distance.
