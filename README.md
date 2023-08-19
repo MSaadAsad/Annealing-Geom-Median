@@ -16,5 +16,4 @@ Geometric Median Location Optimizer is a Python-based optimization tool that uti
 
 ### Distribution of X Values over Iterations.
 As the annealer cools down, the X and Y values converge to the optima.
-![Distribution of X Value over Iterations](https://imgur.com/lHWjRxD)
-![Distribution of Y Value over Iterations](https://imgur.com/QnzwXhc)
+![Distribution of X Value over Iterations](https://imgur.com/GaTrvEn)
