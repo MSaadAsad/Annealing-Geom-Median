@@ -11,3 +11,8 @@ Geometric Median Location Optimizer is a Python-based optimization tool that uti
 - Computes the geometric median, representing the most central point regarding distance.
 - Visualizes the optimization process for insightful data analysis.
 - Offers flexible parameters for customization of the annealing process.
+
+## Overview
+
+### b
+[Share](https://drive.google.com/file/d/1GAx5dgxehK4kYmSJG6YmmyTZkTQU2ok9/view?usp=drive_link)
